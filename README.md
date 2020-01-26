@@ -21,7 +21,7 @@ Flix is an app that allows users to browse movies from the [http://api.themovied
 
 ### App Walkthough GIF
 
-<img src="https://recordit.co/I8KQUdbOSr" width=250><br>
+<img src="https://recordit.co/I8KQUdbOSr.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
